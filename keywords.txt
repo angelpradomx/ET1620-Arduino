@@ -1,0 +1,79 @@
+#######################################
+# Syntax Coloring Map - ET1620
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ET1620	KEYWORD1
+HF8890DT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+print	KEYWORD2
+setDigit	KEYWORD2
+setDigitChar	KEYWORD2
+setDecimalPoint	KEYWORD2
+decimalPoint	KEYWORD2
+clearDigits	KEYWORD2
+setLeadingZeros	KEYWORD2
+setLed	KEYWORD2
+led	KEYWORD2
+setLedGrid	KEYWORD2
+clearLeds	KEYWORD2
+testPattern	KEYWORD2
+toPhysical	KEYWORD2
+toLogical	KEYWORD2
+charToPattern	KEYWORD2
+digitGrid	KEYWORD2
+
+setBrightness	KEYWORD2
+brightness	KEYWORD2
+displayOn	KEYWORD2
+displayOff	KEYWORD2
+isOn	KEYWORD2
+setMode	KEYWORD2
+writeRam	KEYWORD2
+readRam	KEYWORD2
+writeBit	KEYWORD2
+readBit	KEYWORD2
+writeGrid	KEYWORD2
+readGrid	KEYWORD2
+writeGridBit	KEYWORD2
+clear	KEYWORD2
+fill	KEYWORD2
+setAutoUpdate	KEYWORD2
+autoUpdate	KEYWORD2
+update	KEYWORD2
+command	KEYWORD2
+gridToAddr	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MODE_10SEG_4GRID	LITERAL1
+MODE_9SEG_5GRID	LITERAL1
+MODE_8SEG_6GRID	LITERAL1
+DUTY_1_16	LITERAL1
+DUTY_2_16	LITERAL1
+DUTY_4_16	LITERAL1
+DUTY_10_16	LITERAL1
+DUTY_11_16	LITERAL1
+DUTY_12_16	LITERAL1
+DUTY_13_16	LITERAL1
+DUTY_14_16	LITERAL1
+SEG_A	LITERAL1
+SEG_B	LITERAL1
+SEG_C	LITERAL1
+SEG_D	LITERAL1
+SEG_E	LITERAL1
+SEG_F	LITERAL1
+SEG_G	LITERAL1
+SEG_DP	LITERAL1
+DIGITS	LITERAL1
+RAM_SIZE	LITERAL1
